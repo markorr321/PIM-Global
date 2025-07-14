@@ -69,6 +69,8 @@ cd PIM-Global
 
 
 
+![Run the Script: ](images/PIM - Manual Script Interaction.png)
+
 ---
 
 ## 🔐 Security
