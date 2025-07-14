@@ -5,7 +5,7 @@ Multi-tenant Microsoft Graph PIM Activator with MFA Enforcement
 🛡️ **Multi-Tenant Microsoft Graph PIM Activator**
 Securely elevate eligible Azure AD roles using Microsoft Graph and MFA-enforced authentication.
 
-🪪 Alternate (Shorter) Version for GitHub Repo Description
+🪪
 Supports Entra ID authentication contexts and interactive MFA, including Passkey sign-ins.
 ---
 
