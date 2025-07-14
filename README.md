@@ -37,7 +37,21 @@ This will:
 
 ---
 
-### 2. 🧑‍💻 \[User] Run the Script
+Essential PowerShell Prerequisites
+
+# Ensure TLS 1.2 for secure downloads
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+
+# Install modules
+Install-Module MSAL.PS -Scope CurrentUser -Force
+Install-Module Microsoft.Graph -Scope CurrentUser -Force
+
+# Import modules
+Import-Module MSAL.PS
+Import-Module Microsoft.Graph
+
+
+🧑‍💻 \[User] Run the Script
 
 **Option A** — Run once via GitHub:
 
