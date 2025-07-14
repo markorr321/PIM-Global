@@ -86,7 +86,6 @@ This tool uses:
 [MIT License](LICENSE)
 
 ---
+✉️ Questions?
 
-## ✉️ Questions?
-
-Open an [issue](https://github.com/<your-username>/PIM-Global/issues) or contact [morr@orr365.tech](mailto:morr@orr365.tech)
+Open an issue or contact morr@orr365.techFollow me on Twitter: @MarkHunterOrr
