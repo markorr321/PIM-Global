@@ -59,7 +59,7 @@ cd PIM-Global
 
 ## ✅ Requirements
 
-* PowerShell 5.1+ (Windows) or PowerShell 7+
+* PowerShell 7+
 * Graph modules auto-installed:
 
   * `Microsoft.Graph`
