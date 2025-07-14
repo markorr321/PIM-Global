@@ -41,7 +41,7 @@ This will:
 **Option A** — Run once via GitHub:
 
 ```powershell
-iex "& { $(irm https://raw.githubusercontent.com/<your-username>/PIM-Global/main/PIM-Global.ps1) }"
+iex "& { $(irm https://raw.githubusercontent.com/markorr321/PIM-Global/main/PIM-Global.ps1) }"
 ```
 
 **Option B** — Clone the repo and run:
