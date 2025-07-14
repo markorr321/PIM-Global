@@ -68,8 +68,56 @@ cd PIM-Global
 ## 🧠 Example
 
 
+### 🟢 Run the Script
 
 ![Run the Script](images/PIM%20-%20Manual%20Script%20Interaction.png)
+
+
+### 👤 Select Your Account
+
+![Account Selection](images/PIM%20-%20Account%20Selection.png)
+
+
+
+### 🔑 Passkey Interaction
+
+![Passkey Interaction](images/PIM%20-%20Device%20Selection.png)
+
+
+### 📷 Scan QR Code
+
+![QR Code Verification](images/PIM%20-%20QR%20Code%20Verification.png)
+
+
+### ✅ MFA Confirmation
+
+![MFA Confirmation](images/PIM%20-%20Final%20MFA.png)
+
+
+### 🎭 Role Retrieval
+
+![Role Selection](images/PIM%20-%20Role%20Selection.png)
+
+
+### 🧮 Selecting Your Role
+
+![Enter Role Number](images/PIM%20-%20Enter%20Role%20Number.png)
+
+
+### ⏳ Role Duration
+
+![Enter Activation Duration](images/PIM%20-%20Enter%20Activation%20Duration.png)
+
+
+### 📝 Enter Reason for Activation
+
+![Enter Reason](images/PIM%20-%20Enter%20reason%20for%20activation.png)
+
+
+### 🟦 Role Activation Complete
+
+![Final Activation](images/PIM-Final.png)
+
 
 
 ---
