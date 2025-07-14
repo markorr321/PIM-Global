@@ -43,11 +43,15 @@ Essential PowerShell Prerequisites
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 # Install modules
+
 Install-Module MSAL.PS -Scope CurrentUser -Force
+
 Install-Module Microsoft.Graph -Scope CurrentUser -Force
 
 # Import modules
+
 Import-Module MSAL.PS
+
 Import-Module Microsoft.Graph
 
 
