@@ -88,4 +88,4 @@ This tool uses:
 ---
 ✉️ Questions?
 
-Open an issue or contact morr@orr365.techFollow me on Twitter: @MarkHunterOrr
+Open an issue or contact morr@orr365.tech or DM me on Twitter: @MarkHunterOrr
