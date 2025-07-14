@@ -20,11 +20,20 @@ Supports **cross-tenant** usage with a published **App Registration**.
 
 ---
 
+🔐 Permissions Requested
+When you run the script for the first time, Microsoft will prompt you to sign in and approve access to a few Microsoft Graph permissions:
+
 | Permission                           | Why It's Needed                             |
 | ------------------------------------ | ------------------------------------------- |
 | `User.Read`                          | To identify you and sign in securely        |
 | `RoleManagement.Read.Directory`      | To view which PIM roles you're eligible for |
 | `RoleManagement.ReadWrite.Directory` | To activate eligible roles on your behalf   |
+
+
+📌 These permissions are delegated — meaning they only apply while you're signed in interactively using MFA.
+
+👉 If you're the first person in your tenant to use the tool, Microsoft Entra may ask your admin to approve the requested permissions.
+This is a one-time step built into the Microsoft sign-in experience — no separate setup or consent URL is needed.
 
 
 Essential PowerShell Prerequisites
