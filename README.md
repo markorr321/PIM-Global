@@ -1,4 +1,5 @@
 # PIM-Global
+
 Multi-tenant Microsoft Graph PIM Activator with MFA Enforcement
 
 🛡️ **Multi-Tenant Microsoft Graph PIM Activator**
@@ -40,6 +41,8 @@ This will:
 
 **Option A** — Run once via GitHub:
 
+📅 Copy & paste this into PowerShell:
+
 ```powershell
 iex "& { $(irm https://raw.githubusercontent.com/markorr321/PIM-Global/main/PIM-Global.ps1) }"
 ```
@@ -47,7 +50,7 @@ iex "& { $(irm https://raw.githubusercontent.com/markorr321/PIM-Global/main/PIM-
 **Option B** — Clone the repo and run:
 
 ```powershell
-git clone https://github.com/<your-username>/PIM-Global.git
+git clone https://github.com/markorr321/PIM-Global.git
 cd PIM-Global
 .\PIM-Global.ps1
 ```
@@ -67,58 +70,45 @@ cd PIM-Global
 
 ## 🧠 Example
 
-
 ### 🟢 Run the Script
 
 ![Run the Script](images/PIM%20-%20Manual%20Script%20Interaction.png)
-
 
 ### 👤 Select Your Account
 
 ![Account Selection](images/PIM%20-%20Account%20Selection.png)
 
-
-
 ### 🔑 Passkey Interaction
 
 ![Passkey Interaction](images/PIM%20-%20Device%20Selection.png)
-
 
 ### 📷 Scan QR Code
 
 ![QR Code Verification](images/PIM%20-%20QR%20Code%20Verification.png)
 
-
 ### ✅ MFA Confirmation
 
 ![MFA Confirmation](images/PIM%20-%20Final%20MFA.png)
-
 
 ### 🎭 Role Retrieval
 
 ![Role Selection](images/PIM%20-%20Role%20Selection.png)
 
-
-### 🧮 Selecting Your Role
+### 🧾 Selecting Your Role
 
 ![Enter Role Number](images/PIM%20-%20Enter%20Role%20Number.png)
-
 
 ### ⏳ Role Duration
 
 ![Enter Activation Duration](images/PIM%20-%20Enter%20Activation%20Duration.png)
 
-
 ### 📝 Enter Reason for Activation
 
 ![Enter Reason](images/PIM%20-%20Enter%20reason%20for%20activation.png)
 
-
-### 🟦 Role Activation Complete
+### 🟖️ Role Activation Complete
 
 ![Final Activation](images/PIM-Final.png)
-
-
 
 ---
 
@@ -137,6 +127,8 @@ This tool uses:
 [MIT License](LICENSE)
 
 ---
+
 ✉️ Questions?
 
-Open an issue or contact morr@orr365.tech or DM me on Twitter: @MarkHunterOrr
+Open an issue or contact **[morr@orr365.tech](mailto:morr@orr365.tech)**
+or DM me on Twitter: [@MarkHunterOrr](https://twitter.com/MarkHunterOrr)
