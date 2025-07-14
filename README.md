@@ -20,22 +20,12 @@ Supports **cross-tenant** usage with a published **App Registration**.
 
 ---
 
-## 🚀 How to Use
+| Permission                           | Why It's Needed                             |
+| ------------------------------------ | ------------------------------------------- |
+| `User.Read`                          | To identify you and sign in securely        |
+| `RoleManagement.Read.Directory`      | To view which PIM roles you're eligible for |
+| `RoleManagement.ReadWrite.Directory` | To activate eligible roles on your behalf   |
 
-### 1. ✅ \[Admin] Grant Consent for Your Tenant
-
-Run this link in a browser (once per tenant):
-
-```
-https://login.microsoftonline.com/common/adminconsent?client_id=bf34fc64-bbbc-45cb-9124-471341025093
-```
-
-This will:
-
-* Register the PIM-Global app in your tenant
-* Grant Graph permissions: `User.Read`, `RoleManagement.Read.Directory`, `RoleManagement.ReadWrite.Directory`
-
----
 
 Essential PowerShell Prerequisites
 
