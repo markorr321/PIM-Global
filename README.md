@@ -69,7 +69,8 @@ cd PIM-Global
 
 
 
-![Run the Script: ](images/PIM - Manual Script Interaction.png)
+![Run the Script](images/PIM%20-%20Manual%20Script%20Interaction.png)
+
 
 ---
 
