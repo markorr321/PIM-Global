@@ -67,7 +67,7 @@ cd PIM-Global
 
 ## 🧠 Example
 
-![screenshot](https://your-screenshot-or-logo-url-if-you-have-one)
+
 
 ---
 
