@@ -1,24 +1,23 @@
-# PIM-Global
+# 🔐 PIM-Global
 
-Multi-tenant Microsoft Graph PIM Activator with MFA Enforcement
+[![Latest Release](https://img.shields.io/github/v/release/markorr321/PIM-Global?label=Download%20PIM-Global.exe&style=for-the-badge)](https://github.com/markorr321/PIM-Global/releases/latest)
 
-🛡️ Multi-Tenant Microsoft Graph PIM Activator
-Securely elevate eligible Azure AD roles across tenants using Microsoft Graph with enforced MFA. This tool supports Entra ID authentication contexts for fine-grained access control and enables interactive, phishing resistant sign-ins—including Passkey-based authentication.
+> **Now available as a standalone `.exe`** in [v3.0.0.0](https://github.com/markorr321/PIM-Global/releases/tag/v3.0.0) – no PowerShell required.
+
+PIM-Global is a lightweight, secure desktop utility designed to streamline Entra ID Privileged Identity Management (PIM) role activation across global tenants.
+
+---
+
+## 🚀 Key Features
+
+- ✅ Native executable — no script editing or PowerShell needed  
+- 🌍 Multi-tenant support  
+- 🔐 MSAL & Microsoft.Graph-based authentication  
+- 🎨 Colorized CLI prompts & MFA guidance  
+- 🖥️ Desktop-friendly (Electron-compatible variant included)  
 
 ---
 
-## 🔧 What It Does
-
-This PowerShell-based tool allows users to:
-
-* Authenticate interactively using **MFA-compliant ACRS tokens**
-* Connect securely to **Microsoft Graph**
-* View eligible **Azure AD PIM roles**
-* Submit a **justified, time-limited activation request**
-
-Supports **cross-tenant** usage with a published **App Registration**.
-
----
 
 🔐 Permissions Requested
 When you run the script for the first time, Microsoft will prompt you to sign in and approve access to a few Microsoft Graph permissions:
