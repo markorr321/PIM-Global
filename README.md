@@ -67,7 +67,7 @@ Import-Module Microsoft.Graph
 📅 Copy & paste this into PowerShell:
 
 ```powershell
-iex "& { $(irm https://raw.githubusercontent.com/markorr321/PIM-Global/main/PIM-Global.ps1) }"
+iex "& { $(irm https://raw.githubusercontent.com/markorr321/PIM-Global/main/PIM-Global-v2.ps1) }"
 ```
 
 **Option B** — Clone the repo and run:
