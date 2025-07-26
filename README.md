@@ -8,6 +8,12 @@ PIM-Global is a lightweight, secure desktop utility designed to streamline Entra
 
 ---
 
+> 🚀 **New Version Released!**  
+> `PIM-Global-v2.ps1` now supports **full role lifecycle management**, multi-role activation/deactivation, active role detection, and more.  
+> The original `PIM-Global.ps1` remains available for compatibility.  
+> [View the changelog →](./CHANGELOG.md)
+
+
 ## 🚀 Key Features
 
 - ✅ Native executable — no script editing or PowerShell needed  
