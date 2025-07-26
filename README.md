@@ -75,7 +75,7 @@ iex "& { $(irm https://raw.githubusercontent.com/markorr321/PIM-Global/main/PIM-
 ```powershell
 git clone https://github.com/markorr321/PIM-Global.git
 cd PIM-Global
-.\PIM-Global.ps1
+.\PIM-Global-v2.ps1
 ```
 
 ---
